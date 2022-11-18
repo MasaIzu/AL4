@@ -57,6 +57,7 @@ private: // メンバ変数
 	Input* input = nullptr;
 	DebugText debugText;
 
+
 	/// <summary>
 	/// ゲームシーン用
 	/// </summary>
